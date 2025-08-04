@@ -12,7 +12,7 @@ Dataset Link : https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dat
 
 Mimics real-world messy data taken from a live quick-commerce grocery platform.
 
-Tests end-to-end SQL workflow: from schema design and data ingestion to cleaning and analysis.
+Tests end-to-end SQL and Excel workflow: from schema design and data ingestion to cleaning and analysis.
 
 Delivers actionable business metrics: insights into discount trends, category performance, stock health, inventory value, and cost-efficiency.
 
